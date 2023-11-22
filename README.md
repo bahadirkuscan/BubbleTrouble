@@ -1,2 +1,3 @@
 # BubbleTrouble
-Java Project
+
+Remake of the internet game "Bubble Trouble" using StdDraw library.
